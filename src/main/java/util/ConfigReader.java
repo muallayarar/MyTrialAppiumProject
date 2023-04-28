@@ -27,6 +27,7 @@ public class ConfigReader {
     }
 
     public static Properties getProperties(){
+
         return  properties;
     }
 
